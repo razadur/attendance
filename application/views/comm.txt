@@ -1,0 +1,1 @@
+ALTER TABLE biostar.tb_user ADD COLUMN accountno VARCHAR(50) NOT NULL AFTER nEncryption;
